@@ -1,0 +1,596 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		CC5B37D52FB6676200C44A40 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC5B37B62FB6676100C44A40 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC5B37BD2FB6676100C44A40;
+			remoteInfo = CloneNike_C14;
+		};
+		CC5B37DF2FB6676200C44A40 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC5B37B62FB6676100C44A40 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC5B37BD2FB6676100C44A40;
+			remoteInfo = CloneNike_C14;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CC5B37BE2FB6676100C44A40 /* CloneNike_C14.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloneNike_C14.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC5B37D42FB6676200C44A40 /* CloneNike_C14Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CloneNike_C14Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC5B37DE2FB6676200C44A40 /* CloneNike_C14UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CloneNike_C14UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		CC5B37E62FB6676200C44A40 /* Exceptions for "CloneNike_C14" folder in "CloneNike_C14" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = CC5B37BD2FB6676100C44A40 /* CloneNike_C14 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		CC5B37C02FB6676100C44A40 /* CloneNike_C14 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				CC5B37E62FB6676200C44A40 /* Exceptions for "CloneNike_C14" folder in "CloneNike_C14" target */,
+			);
+			path = CloneNike_C14;
+			sourceTree = "<group>";
+		};
+		CC5B37D72FB6676200C44A40 /* CloneNike_C14Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CloneNike_C14Tests;
+			sourceTree = "<group>";
+		};
+		CC5B37E12FB6676200C44A40 /* CloneNike_C14UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = CloneNike_C14UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CC5B37BB2FB6676100C44A40 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37D12FB6676200C44A40 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37DB2FB6676200C44A40 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CC5B37B52FB6676100C44A40 = {
+			isa = PBXGroup;
+			children = (
+				CC5B37C02FB6676100C44A40 /* CloneNike_C14 */,
+				CC5B37D72FB6676200C44A40 /* CloneNike_C14Tests */,
+				CC5B37E12FB6676200C44A40 /* CloneNike_C14UITests */,
+				CC5B37BF2FB6676100C44A40 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC5B37BF2FB6676100C44A40 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CC5B37BE2FB6676100C44A40 /* CloneNike_C14.app */,
+				CC5B37D42FB6676200C44A40 /* CloneNike_C14Tests.xctest */,
+				CC5B37DE2FB6676200C44A40 /* CloneNike_C14UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CC5B37BD2FB6676100C44A40 /* CloneNike_C14 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC5B37E72FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14" */;
+			buildPhases = (
+				CC5B37BA2FB6676100C44A40 /* Sources */,
+				CC5B37BB2FB6676100C44A40 /* Frameworks */,
+				CC5B37BC2FB6676100C44A40 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				CC5B37C02FB6676100C44A40 /* CloneNike_C14 */,
+			);
+			name = CloneNike_C14;
+			packageProductDependencies = (
+			);
+			productName = CloneNike_C14;
+			productReference = CC5B37BE2FB6676100C44A40 /* CloneNike_C14.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CC5B37D32FB6676200C44A40 /* CloneNike_C14Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC5B37EC2FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14Tests" */;
+			buildPhases = (
+				CC5B37D02FB6676200C44A40 /* Sources */,
+				CC5B37D12FB6676200C44A40 /* Frameworks */,
+				CC5B37D22FB6676200C44A40 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC5B37D62FB6676200C44A40 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CC5B37D72FB6676200C44A40 /* CloneNike_C14Tests */,
+			);
+			name = CloneNike_C14Tests;
+			packageProductDependencies = (
+			);
+			productName = CloneNike_C14Tests;
+			productReference = CC5B37D42FB6676200C44A40 /* CloneNike_C14Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CC5B37DD2FB6676200C44A40 /* CloneNike_C14UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC5B37EF2FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14UITests" */;
+			buildPhases = (
+				CC5B37DA2FB6676200C44A40 /* Sources */,
+				CC5B37DB2FB6676200C44A40 /* Frameworks */,
+				CC5B37DC2FB6676200C44A40 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC5B37E02FB6676200C44A40 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				CC5B37E12FB6676200C44A40 /* CloneNike_C14UITests */,
+			);
+			name = CloneNike_C14UITests;
+			packageProductDependencies = (
+			);
+			productName = CloneNike_C14UITests;
+			productReference = CC5B37DE2FB6676200C44A40 /* CloneNike_C14UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CC5B37B62FB6676100C44A40 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2630;
+				LastUpgradeCheck = 2630;
+				TargetAttributes = {
+					CC5B37BD2FB6676100C44A40 = {
+						CreatedOnToolsVersion = 26.3;
+					};
+					CC5B37D32FB6676200C44A40 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = CC5B37BD2FB6676100C44A40;
+					};
+					CC5B37DD2FB6676200C44A40 = {
+						CreatedOnToolsVersion = 26.3;
+						TestTargetID = CC5B37BD2FB6676100C44A40;
+					};
+				};
+			};
+			buildConfigurationList = CC5B37B92FB6676100C44A40 /* Build configuration list for PBXProject "CloneNike_C14" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CC5B37B52FB6676100C44A40;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = CC5B37BF2FB6676100C44A40 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CC5B37BD2FB6676100C44A40 /* CloneNike_C14 */,
+				CC5B37D32FB6676200C44A40 /* CloneNike_C14Tests */,
+				CC5B37DD2FB6676200C44A40 /* CloneNike_C14UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CC5B37BC2FB6676100C44A40 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37D22FB6676200C44A40 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37DC2FB6676200C44A40 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CC5B37BA2FB6676100C44A40 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37D02FB6676200C44A40 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC5B37DA2FB6676200C44A40 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CC5B37D62FB6676200C44A40 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC5B37BD2FB6676100C44A40 /* CloneNike_C14 */;
+			targetProxy = CC5B37D52FB6676200C44A40 /* PBXContainerItemProxy */;
+		};
+		CC5B37E02FB6676200C44A40 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC5B37BD2FB6676100C44A40 /* CloneNike_C14 */;
+			targetProxy = CC5B37DF2FB6676200C44A40 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CC5B37E82FB6676200C44A40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CloneNike_C14/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CC5B37E92FB6676200C44A40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CloneNike_C14/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CC5B37EA2FB6676200C44A40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CC5B37EB2FB6676200C44A40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CC5B37ED2FB6676200C44A40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CloneNike_C14.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CloneNike_C14";
+			};
+			name = Debug;
+		};
+		CC5B37EE2FB6676200C44A40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CloneNike_C14.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CloneNike_C14";
+			};
+			name = Release;
+		};
+		CC5B37F02FB6676200C44A40 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CloneNike_C14;
+			};
+			name = Debug;
+		};
+		CC5B37F12FB6676200C44A40 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2XBHGB4LG5;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.filipi.CloneNike-C14UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = CloneNike_C14;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CC5B37B92FB6676100C44A40 /* Build configuration list for PBXProject "CloneNike_C14" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC5B37EA2FB6676200C44A40 /* Debug */,
+				CC5B37EB2FB6676200C44A40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC5B37E72FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC5B37E82FB6676200C44A40 /* Debug */,
+				CC5B37E92FB6676200C44A40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC5B37EC2FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC5B37ED2FB6676200C44A40 /* Debug */,
+				CC5B37EE2FB6676200C44A40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC5B37EF2FB6676200C44A40 /* Build configuration list for PBXNativeTarget "CloneNike_C14UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC5B37F02FB6676200C44A40 /* Debug */,
+				CC5B37F12FB6676200C44A40 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CC5B37B62FB6676100C44A40 /* Project object */;
+}
