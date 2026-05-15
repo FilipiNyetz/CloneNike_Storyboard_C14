@@ -42,8 +42,8 @@
                                                     <constraint firstAttribute="height" constant="490" id="AdQ-XG-oMN"/>
                                                 </constraints>
                                             </imageView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g0o-r9-PDF">
-                                                <rect key="frame" x="24" y="1232.6666666666667" width="345" height="57.333333333333258"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" misplaced="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g0o-r9-PDF">
+                                                <rect key="frame" x="24" y="1233" width="345" height="58"/>
                                                 <string key="text">As a Nike Member, All 
 of This Is Yours:</string>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
@@ -51,49 +51,49 @@ of This Is Yours:</string>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="- Daily Sport" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T0R-oB-lfe">
-                                                <rect key="frame" x="24" y="1360" width="100" height="21"/>
+                                                <rect key="frame" x="24" y="1324" width="100" height="21"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Inspiration, workout plans and advice in our suite of world-class sport apps." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HiT-Ih-GhF">
-                                                <rect key="frame" x="24" y="1389" width="345" height="40.666666666666742"/>
+                                                <rect key="frame" x="24" y="1353" width="345" height="40.666666666666742"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="- Daily Sport" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="f9I-j3-qZB">
-                                                <rect key="frame" x="24" y="1453.6666666666667" width="345" height="21"/>
+                                                <rect key="frame" x="24" y="1417.6666666666667" width="345" height="21"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Inspiration, workout plans and advice in our suite of world-class sport apps." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pz5-nn-ORK">
-                                                <rect key="frame" x="24" y="1482.6666666666667" width="345" height="40.666666666666742"/>
+                                                <rect key="frame" x="24" y="1446.6666666666667" width="345" height="40.666666666666742"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="- Daily Sport" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HDc-7A-o9E">
-                                                <rect key="frame" x="24" y="1547.3333333333333" width="100" height="21"/>
+                                                <rect key="frame" x="24" y="1511.3333333333333" width="100" height="21"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sport is better together. Join us for Member Experiences in your city and online," textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="djO-HK-zjE">
-                                                <rect key="frame" x="24" y="1576.3333333333333" width="345" height="40.666666666666742"/>
+                                                <rect key="frame" x="24" y="1540.3333333333333" width="345" height="40.666666666666742"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="- Member Rewards" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ytw-Fq-DRz">
-                                                <rect key="frame" x="24" y="1641" width="151" height="21"/>
+                                                <rect key="frame" x="24" y="1605" width="151" height="21"/>
                                                 <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Let us celebrate your birthday and reward you with other surprises throughout the year." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" highlighted="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qHV-Ly-lfP">
-                                                <rect key="frame" x="24" y="1662" width="345" height="40.666666666666742"/>
+                                                <rect key="frame" x="24" y="1638" width="345" height="40.666666666666742"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -105,14 +105,24 @@ of This Is Yours:</string>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
+                                            <tabBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5uk-bf-OEq">
+                                                <rect key="frame" x="0.0" y="1702.6666666666667" width="393" height="83"/>
+                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <items>
+                                                    <tabBarItem systemItem="favorites" id="Rqv-gr-e7Y"/>
+                                                    <tabBarItem systemItem="more" id="l9y-aO-lX7"/>
+                                                </items>
+                                            </tabBar>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
+                                            <constraint firstItem="qHV-Ly-lfP" firstAttribute="top" secondItem="Ytw-Fq-DRz" secondAttribute="bottom" constant="12" id="2tY-Xz-T7z"/>
                                             <constraint firstAttribute="height" constant="1785.6666666666667" id="4oH-hc-61d"/>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="top" secondItem="HDc-7A-o9E" secondAttribute="bottom" constant="8" id="6u3-SW-2ee"/>
                                             <constraint firstAttribute="trailing" secondItem="Pz5-nn-ORK" secondAttribute="trailing" constant="24" id="7Sv-PE-rah"/>
                                             <constraint firstItem="Pz5-nn-ORK" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="7hf-q5-aGK"/>
                                             <constraint firstItem="y9r-bM-boA" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="144" id="8It-fD-7B2"/>
+                                            <constraint firstItem="5uk-bf-OEq" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" id="9oC-el-BCk"/>
                                             <constraint firstAttribute="trailing" secondItem="y9r-bM-boA" secondAttribute="trailing" id="AMT-sd-LLn"/>
                                             <constraint firstAttribute="trailing" secondItem="qHV-Ly-lfP" secondAttribute="trailing" constant="24" id="B62-VO-4jL"/>
                                             <constraint firstItem="09D-ml-jTW" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="BYc-tC-7Ps"/>
@@ -120,6 +130,7 @@ of This Is Yours:</string>
                                             <constraint firstItem="Ytw-Fq-DRz" firstAttribute="top" secondItem="djO-HK-zjE" secondAttribute="bottom" constant="24" id="DIz-cx-yFn"/>
                                             <constraint firstItem="y9r-bM-boA" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" id="Dg2-oi-vAV"/>
                                             <constraint firstItem="f9I-j3-qZB" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="Fet-fC-nu3"/>
+                                            <constraint firstItem="5uk-bf-OEq" firstAttribute="top" secondItem="qHV-Ly-lfP" secondAttribute="bottom" constant="24" id="Fkv-oY-PFR"/>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="1000" id="Gju-gT-4fo"/>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="1000" id="IGv-VI-Ppe"/>
                                             <constraint firstAttribute="trailing" secondItem="iYn-MU-spx" secondAttribute="trailing" id="Kga-Hj-Uqd"/>
@@ -134,11 +145,14 @@ of This Is Yours:</string>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="leading" secondItem="T0R-oB-lfe" secondAttribute="leading" id="drl-pg-7aa"/>
                                             <constraint firstAttribute="trailing" secondItem="09D-ml-jTW" secondAttribute="trailing" constant="25" id="eG7-yH-b83"/>
                                             <constraint firstAttribute="trailing" secondItem="oX6-1i-DYK" secondAttribute="trailing" id="gDw-kA-DQU"/>
+                                            <constraint firstAttribute="trailing" secondItem="5uk-bf-OEq" secondAttribute="trailing" id="jjC-PX-KNx"/>
+                                            <constraint firstItem="qHV-Ly-lfP" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="kgp-jK-zKE"/>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="leading" secondItem="HDc-7A-o9E" secondAttribute="leading" id="n7n-TV-lJ9"/>
                                             <constraint firstItem="g0o-r9-PDF" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="nLC-br-IpZ"/>
                                             <constraint firstItem="09D-ml-jTW" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="24" id="nUj-Rs-pqX"/>
                                             <constraint firstItem="09D-ml-jTW" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="24" id="o0q-Zy-ZvU"/>
-                                            <constraint firstItem="qHV-Ly-lfP" firstAttribute="top" secondItem="Ytw-Fq-DRz" secondAttribute="bottom" id="phV-MU-BuZ"/>
+                                            <constraint firstAttribute="trailing" secondItem="qHV-Ly-lfP" secondAttribute="trailing" constant="24" id="oK8-cw-yB1"/>
+                                            <constraint firstAttribute="bottom" secondItem="5uk-bf-OEq" secondAttribute="bottom" id="ot3-86-JeV"/>
                                             <constraint firstItem="g0o-r9-PDF" firstAttribute="top" secondItem="y9r-bM-boA" secondAttribute="bottom" constant="40" id="qs7-Ux-lz5"/>
                                             <constraint firstItem="T0R-oB-lfe" firstAttribute="top" secondItem="g0o-r9-PDF" secondAttribute="bottom" constant="70" id="qwz-fw-P9W"/>
                                             <constraint firstItem="Ytw-Fq-DRz" firstAttribute="leading" secondItem="qHV-Ly-lfP" secondAttribute="leading" id="rTW-rK-QbJ"/>
@@ -149,6 +163,7 @@ of This Is Yours:</string>
                                             <constraint firstItem="oX6-1i-DYK" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="w9v-FL-xIC"/>
                                             <constraint firstAttribute="trailing" secondItem="HiT-Ih-GhF" secondAttribute="trailing" constant="24" id="xSt-IW-QQp"/>
                                             <constraint firstItem="oX6-1i-DYK" firstAttribute="top" secondItem="iYn-MU-spx" secondAttribute="bottom" constant="40" id="xnn-Mu-QC7"/>
+                                            <constraint firstAttribute="bottom" secondItem="5uk-bf-OEq" secondAttribute="bottom" id="ycC-6n-Y85"/>
                                         </constraints>
                                     </view>
                                 </subviews>
