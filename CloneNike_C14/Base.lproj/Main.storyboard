@@ -30,14 +30,14 @@
                                                 </constraints>
                                                 <preferredSymbolConfiguration key="preferredSymbolConfiguration" scale="default"/>
                                             </imageView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to the Nike App" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oX6-1i-DYK">
-                                                <rect key="frame" x="24" y="530" width="369" height="28.666666666666629"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to the " textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oX6-1i-DYK">
+                                                <rect key="frame" x="24" y="530" width="369" height="75"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="girls_nike2" translatesAutoresizingMaskIntoConstraints="NO" id="y9r-bM-boA">
-                                                <rect key="frame" x="0.0" y="702.66666666666663" width="393" height="489.99999999999989"/>
+                                                <rect key="frame" x="0.0" y="724" width="393" height="490"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="490" id="AdQ-XG-oMN"/>
                                                 </constraints>
@@ -99,7 +99,7 @@ of This Is Yours:</string>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="09D-ml-jTW">
-                                                <rect key="frame" x="24" y="582.66666666666663" width="344" height="101.66666666666663"/>
+                                                <rect key="frame" x="24" y="629" width="344" height="101.66666666666663"/>
                                                 <string key="text">This is where you’ll find the best of Nike - personalized for you. As a Nike Member, you have access to a community helping to create the future of sport - together. Explore below to get started.</string>
                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                 <nil key="textColor"/>
@@ -109,20 +109,30 @@ of This Is Yours:</string>
                                                 <rect key="frame" x="0.0" y="1702.6666666666667" width="393" height="83"/>
                                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <items>
-                                                    <tabBarItem systemItem="favorites" id="Rqv-gr-e7Y"/>
-                                                    <tabBarItem systemItem="more" id="l9y-aO-lX7"/>
+                                                    <tabBarItem title="Home" image="house" catalog="system" id="1UP-yz-jIA"/>
+                                                    <tabBarItem title="Shop" image="magnifyingglass" catalog="system" id="9Ox-Yi-zCn"/>
+                                                    <tabBarItem title="Favourites" image="heart" catalog="system" id="cmZ-gH-JSb"/>
+                                                    <tabBarItem title="Bag" image="bag" catalog="system" id="Zio-1o-Oe0"/>
+                                                    <tabBarItem title="Profile" image="person" catalog="system" id="l9y-aO-lX7"/>
                                                 </items>
                                             </tabBar>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Nike App" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rwq-cG-MN6">
+                                                <rect key="frame" x="24" y="581" width="101" height="24"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="qHV-Ly-lfP" firstAttribute="top" secondItem="Ytw-Fq-DRz" secondAttribute="bottom" constant="12" id="2tY-Xz-T7z"/>
+                                            <constraint firstItem="09D-ml-jTW" firstAttribute="top" secondItem="Rwq-cG-MN6" secondAttribute="bottom" constant="25" id="45m-L8-MpT"/>
                                             <constraint firstAttribute="height" constant="1785.6666666666667" id="4oH-hc-61d"/>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="top" secondItem="HDc-7A-o9E" secondAttribute="bottom" constant="8" id="6u3-SW-2ee"/>
                                             <constraint firstAttribute="trailing" secondItem="Pz5-nn-ORK" secondAttribute="trailing" constant="24" id="7Sv-PE-rah"/>
                                             <constraint firstItem="Pz5-nn-ORK" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="7hf-q5-aGK"/>
-                                            <constraint firstItem="y9r-bM-boA" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="144" id="8It-fD-7B2"/>
                                             <constraint firstItem="5uk-bf-OEq" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" id="9oC-el-BCk"/>
+                                            <constraint firstItem="Rwq-cG-MN6" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="AHn-Qj-54Q"/>
                                             <constraint firstAttribute="trailing" secondItem="y9r-bM-boA" secondAttribute="trailing" id="AMT-sd-LLn"/>
                                             <constraint firstAttribute="trailing" secondItem="qHV-Ly-lfP" secondAttribute="trailing" constant="24" id="B62-VO-4jL"/>
                                             <constraint firstItem="09D-ml-jTW" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="BYc-tC-7Ps"/>
@@ -137,6 +147,7 @@ of This Is Yours:</string>
                                             <constraint firstAttribute="trailing" secondItem="g0o-r9-PDF" secondAttribute="trailing" constant="24" id="LUX-YJ-QIM"/>
                                             <constraint firstAttribute="trailing" secondItem="f9I-j3-qZB" secondAttribute="trailing" constant="24" id="RuP-Ln-CCP"/>
                                             <constraint firstItem="iYn-MU-spx" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" id="SRr-7y-OMP"/>
+                                            <constraint firstItem="Rwq-cG-MN6" firstAttribute="top" secondItem="iYn-MU-spx" secondAttribute="bottom" constant="90" id="U9t-ZQ-Z7Z"/>
                                             <constraint firstItem="qHV-Ly-lfP" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="Wmy-Mb-Tl4"/>
                                             <constraint firstItem="HDc-7A-o9E" firstAttribute="top" secondItem="Pz5-nn-ORK" secondAttribute="bottom" constant="24" id="XUh-yx-KVA"/>
                                             <constraint firstItem="f9I-j3-qZB" firstAttribute="top" secondItem="HiT-Ih-GhF" secondAttribute="bottom" constant="24" id="aIq-E8-AhS"/>
@@ -144,12 +155,12 @@ of This Is Yours:</string>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="d3f-Bj-5JT"/>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="leading" secondItem="T0R-oB-lfe" secondAttribute="leading" id="drl-pg-7aa"/>
                                             <constraint firstAttribute="trailing" secondItem="09D-ml-jTW" secondAttribute="trailing" constant="25" id="eG7-yH-b83"/>
+                                            <constraint firstItem="y9r-bM-boA" firstAttribute="top" secondItem="Rwq-cG-MN6" secondAttribute="bottom" constant="120" id="gCA-Bg-94Q"/>
                                             <constraint firstAttribute="trailing" secondItem="oX6-1i-DYK" secondAttribute="trailing" id="gDw-kA-DQU"/>
                                             <constraint firstAttribute="trailing" secondItem="5uk-bf-OEq" secondAttribute="trailing" id="jjC-PX-KNx"/>
                                             <constraint firstItem="qHV-Ly-lfP" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="kgp-jK-zKE"/>
                                             <constraint firstItem="djO-HK-zjE" firstAttribute="leading" secondItem="HDc-7A-o9E" secondAttribute="leading" id="n7n-TV-lJ9"/>
                                             <constraint firstItem="g0o-r9-PDF" firstAttribute="leading" secondItem="3rM-Ld-uuS" secondAttribute="leading" constant="24" id="nLC-br-IpZ"/>
-                                            <constraint firstItem="09D-ml-jTW" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="24" id="nUj-Rs-pqX"/>
                                             <constraint firstItem="09D-ml-jTW" firstAttribute="top" secondItem="oX6-1i-DYK" secondAttribute="bottom" constant="24" id="o0q-Zy-ZvU"/>
                                             <constraint firstAttribute="trailing" secondItem="qHV-Ly-lfP" secondAttribute="trailing" constant="24" id="oK8-cw-yB1"/>
                                             <constraint firstAttribute="bottom" secondItem="5uk-bf-OEq" secondAttribute="bottom" id="ot3-86-JeV"/>
@@ -196,8 +207,13 @@ of This Is Yours:</string>
         </scene>
     </scenes>
     <resources>
+        <image name="bag" catalog="system" width="128" height="128"/>
         <image name="girls_nike" width="138" height="138"/>
         <image name="girls_nike2" width="138" height="138"/>
+        <image name="heart" catalog="system" width="128" height="107"/>
+        <image name="house" catalog="system" width="128" height="104"/>
+        <image name="magnifyingglass" catalog="system" width="128" height="117"/>
+        <image name="person" catalog="system" width="128" height="121"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
